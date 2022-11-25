@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_Decorator_Pattern_2", "Lab_Decorator_Pattern_2\Lab_Decorator_Pattern_2.csproj", "{2BDFF6CE-95E0-41AF-81F7-C33D7918F085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDFF6CE-95E0-41AF-81F7-C33D7918F085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDFF6CE-95E0-41AF-81F7-C33D7918F085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDFF6CE-95E0-41AF-81F7-C33D7918F085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDFF6CE-95E0-41AF-81F7-C33D7918F085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F30BCEA-ED69-4F43-92D0-EFEF486C9B49}
+	EndGlobalSection
+EndGlobal
